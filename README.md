@@ -1,17 +1,7 @@
 # 👋 Hi, I'm Zephisti
 
-🔧 I build fantasy-inspired developer tools, browser-based RPG frameworks, and AI-assisted game generators.  
-🎮 Creator of **GameSmith UI Generator** – a prompt-based UI builder powered by OpenAI + CSV schemas.
-
----
-
-## 🔥 Featured Project
-
-### 🧩 [GameSmith UI Generator](https://github.com/zephisti/game-ui-generator)
-A data-driven UI generator for browser-based games. Upload a CSV → enter a prompt → generate HTML/CSS UI instantly.
-
-▶️ [Live Demo](https://zephisti.github.io/game-ui-generator)  
-📄 [View README](https://github.com/zephisti/game-ui-generator#readme)
+🔧 I like to build fantasy-inspired developer tools, browser-based RPG frameworks, and AI-assisted game generators.  
+🎮 Creator of **GameSmith UI Generator** – a prompt-based UI builder powered by Generative AI + CSV schemas.
 
 ---
 
@@ -34,13 +24,7 @@ A data-driven UI generator for browser-based games. Upload a CSV → enter a pro
 
 ---
 
-## 📫 Connect With Me
 
-- [Twitter](https://twitter.com/zephisti)
-- [LinkedIn](https://linkedin.com/in/zephisti)
-- [My GitHub Projects](https://github.com/zephisti)
-
----
 
 > *“Build the world you want to play in.”*
 
